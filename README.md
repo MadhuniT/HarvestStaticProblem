@@ -1,0 +1,1 @@
+# HarvestStaticProblem-scala
